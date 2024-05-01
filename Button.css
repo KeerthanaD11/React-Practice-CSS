@@ -1,5 +1,10 @@
-import button from './Button.js'
-
+//External CSS.
 .button{
-    background
+  background-color: aqua;
+  color: aliceblue;
+  margin: 2px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
